@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\bin\Debug\net6.0\VowelsAndConsonants.exe
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\bin\Debug\net6.0\VowelsAndConsonants.deps.json
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\bin\Debug\net6.0\VowelsAndConsonants.runtimeconfig.json
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\bin\Debug\net6.0\VowelsAndConsonants.dll
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\bin\Debug\net6.0\VowelsAndConsonants.pdb
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.dll
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\refint\VowelsAndConsonants.dll
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.pdb
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\VowelsAndConsonants.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\VowelsAndConsonants\VowelsAndConsonants\obj\Debug\net6.0\ref\VowelsAndConsonants.dll
